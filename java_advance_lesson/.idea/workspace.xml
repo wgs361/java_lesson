@@ -3,6 +3,7 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/containers/collections/fill/TestListData.java" />
     <bookmark url="file://$PROJECT_DIR$/src/containers/collection/Unsupported.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/typeinfo/_03_new/FilledList.java" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9857b31-69a4-4e51-b3e9-c5e901a33e8b" name="Default" comment="" />
@@ -16,107 +17,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Buttons.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/button/Buttons.java">
+      <file leaf-file-name="LiteralPetCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCreator/LiteralPetCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ButtonGroups.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/button/ButtonGroups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Faces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/image/Faces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Menus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Menus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="85">
+              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Popup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Popup.java">
+      <file leaf-file-name="PetCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/PetCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="56" column="16" lean-forward="false" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1286#1287#0" expanded="true" />
-                <element signature="e#1327#1328#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1419#1420#0" expanded="true" />
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1678#1679#0" expanded="true" />
+                <element signature="e#1994#1995#0" expanded="true" />
+                <element signature="e#2041#2042#0" expanded="true" />
+                <element signature="e#2094#2095#0" expanded="true" />
+                <element signature="e#2144#2145#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComboBoxes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/list/ComboBoxes.java">
+      <file leaf-file-name="PetCountMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/PetCountMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state relative-caret-position="-674">
+              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding>
-                <element signature="e#1432#1433#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Progress.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gui/controls/progress/Progress.java">
+      <file leaf-file-name="RegisteredFactories.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/RegisteredFactories.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="-1133">
+              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding>
-                <element signature="e#1190#1191#0" expanded="true" />
-                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#347#372#0" expanded="true" />
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1580#1581#0" expanded="true" />
+                <element signature="e#1626#1627#0" expanded="true" />
+                <element signature="e#1821#1822#0" expanded="true" />
+                <element signature="e#1872#1873#0" expanded="true" />
+                <element signature="e#2052#2053#0" expanded="true" />
+                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#2299#2300#0" expanded="true" />
+                <element signature="e#2343#2344#0" expanded="true" />
+                <element signature="e#2533#2534#0" expanded="true" />
+                <element signature="e#2583#2584#0" expanded="true" />
+                <element signature="e#2785#2786#0" expanded="true" />
+                <element signature="e#2839#2840#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Class.java">
+      <file leaf-file-name="FamilyVsExactType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/FamilyVsExactType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="2666" column="14" lean-forward="false" selection-start-line="2666" selection-start-column="11" selection-end-line="2666" selection-end-column="14" />
+            <state relative-caret-position="272">
+              <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/mindview/util/test.java">
+      <file leaf-file-name="SimpleClassViewer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_reflect/SimpleClassViewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassGenericTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassGenericTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/Factory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -125,12 +127,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwingConsole.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/mindview/util/SwingConsole.java">
+      <file leaf-file-name="TypeCounter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/algorithm/TypeCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="629">
+              <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForNameCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCreator/ForNameCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1534433020373" expanded="false" signature="809:839" ph="/unchecked/" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,9 +164,15 @@
       <find>intValue</find>
       <find>int</find>
       <find>LinkedHashMapData</find>
+      <find>TestClass</find>
+      <find>typeinfo.factory.</find>
+      <find>typeinfo._04_new.petCount.factory.Factory</find>
     </findStrings>
     <replaceStrings>
       <replace>MapData</replace>
+      <replace>Inner</replace>
+      <replace>ClassIniter</replace>
+      <replace>typeinfo._04_new.petCount.Factory</replace>
     </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -162,57 +183,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/containers/self_bounded_types/CuriouslyRecurringGeneric.java" />
-        <option value="$PROJECT_DIR$/src/containers/self_bounded_types/TestSelfBound.java" />
-        <option value="$PROJECT_DIR$/src/containers/self_bounded_types/SelfBounding.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/TestGenerator.java" />
-        <option value="$PROJECT_DIR$/src/utils/generator/ArrayListData.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/TestMapGenerator.java" />
-        <option value="$PROJECT_DIR$/src/utils/generator/MapData.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/TestListData.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/TestMapData.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/MapDataTest.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/Countries.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/CountingIntegerList.java" />
-        <option value="$PROJECT_DIR$/src/containers/fill/CountingMapData.java" />
-        <option value="$PROJECT_DIR$/src/containers/collections/fill/CountingMapData.java" />
-        <option value="$PROJECT_DIR$/src/utils/generator/CountingGenerator.java" />
-        <option value="$PROJECT_DIR$/src/containers/collection/TestCollection.java" />
-        <option value="$PROJECT_DIR$/src/containers/collection/Unsupported.java" />
-        <option value="$PROJECT_DIR$/src/containers/list/Lists.java" />
-        <option value="$PROJECT_DIR$/src/containers/list/TestList.java" />
-        <option value="$PROJECT_DIR$/src/containers/map/TestMap.java" />
-        <option value="$PROJECT_DIR$/src/containers/queue/TestQueue.java" />
-        <option value="$PROJECT_DIR$/src/containers/set/TestSet.java" />
-        <option value="$PROJECT_DIR$/src/containers/set/TypesForSets.java" />
-        <option value="$PROJECT_DIR$/src/containers/set/SortedSetDemo.java" />
-        <option value="$PROJECT_DIR$/src/containers/queue/QueueBehavior.java" />
-        <option value="$PROJECT_DIR$/src/containers/queue/ToDoList.java" />
-        <option value="$PROJECT_DIR$/src/utils/container/Deque.java" />
-        <option value="$PROJECT_DIR$/src/containers/queue/DequeTest.java" />
-        <option value="$PROJECT_DIR$/src/containers/queue/TestDeque.java" />
-        <option value="$PROJECT_DIR$/src/gui/hello/HelloSwing.java" />
-        <option value="$PROJECT_DIR$/src/gui/hello/HelloLabel.java" />
-        <option value="$PROJECT_DIR$/src/gui/hello/SubmitLabelManipulationTask.java" />
-        <option value="$PROJECT_DIR$/src/gui/hello/SubmitSwingProgram.java" />
-        <option value="$PROJECT_DIR$/src/utils/swing/SwingConsole.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/button/Button1.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/button/Button2.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/textArea/TextArea.java" />
-        <option value="$PROJECT_DIR$/src/gui/layouts/BorderLayout1.java" />
-        <option value="$PROJECT_DIR$/src/gui/layouts/GridLayout1.java" />
-        <option value="$PROJECT_DIR$/src/gui/layouts/FlowLayout1.java" />
-        <option value="$PROJECT_DIR$/src/gui/events/ShowAddListeners.java" />
-        <option value="$PROJECT_DIR$/src/gui/events/TrackEvent.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/button/Buttons.java" />
-        <option value="$PROJECT_DIR$/src/net/mindview/util/SwingConsole.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/button/ButtonGroups.java" />
-        <option value="$PROJECT_DIR$/src/gui/controls/image/Faces.java" />
         <option value="$PROJECT_DIR$/src/gui/controls/menu/Menus.java" />
         <option value="$PROJECT_DIR$/src/gui/controls/menu/Popup.java" />
         <option value="$PROJECT_DIR$/src/gui/controls/list/ComboBoxes.java" />
         <option value="$PROJECT_DIR$/src/gui/controls/list/ListCombo.java" />
         <option value="$PROJECT_DIR$/src/gui/controls/progress/Progress.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/LoadClassTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_new/NewClassTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/CallMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/load/LoadTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassClassTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassInitTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/NewClassTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassNewTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/ClassFieldTest.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_class/SimpleClassViewer.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_new/ClassNewTest.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/Rodent.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/Pet.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/Pets.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/Individual.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/PetCreator.java" />
+        <option value="$PROJECT_DIR$/src/classes/pets/LiteralPetCreator.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/pets/Individual.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/pets/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_01_rtti/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/reflect/_new/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_02_feflect/ClassNewTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_02_feflect/SimpleClassViewer.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_03_reflect/SimpleClassViewer.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_02_generic/GenericClassReferences.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_02_generic/WildcardClassReferences.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_02_generic/ClassGenericTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassInitTest.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/FilledList.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/LiteralPetCreator.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCreator/LiteralPetCreator.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/PetCount2.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/PetCount.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/PetCount3.java" />
+        <option value="$PROJECT_DIR$/src/utils/algorithm/TypeCounter.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/PetCountMap.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/Factory.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_04_new/petCount/RegisteredFactories.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_01_rtti/FamilyVsExactType.java" />
+        <option value="$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassGenericTest.java" />
       </list>
     </option>
   </component>
@@ -243,8 +264,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,108 +290,13 @@
               <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="fill" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="controls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="controls" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="controls" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="controls" type="462c0819:PsiDirectoryNode" />
-              <item name="progress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="mindview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="mindview" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
@@ -376,12 +304,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java_advance_lesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_advance_lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,18 +328,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="typeinfo._04_new.petCount" />
+      <recent name="utils.algorithm" />
       <recent name="containers.queue" />
       <recent name="utils.container" />
       <recent name="containers.set" />
-      <recent name="containers.map" />
-      <recent name="containers.list" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\gui\controls\progress" />
-      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\gui\controls\list" />
-      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\gui\controls\menu" />
-      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\gui\controls\image" />
-      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\gui\controls\button" />
+      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\typeinfo\_01_rtti" />
+      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\typeinfo\_04_new\petCount" />
+      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\typeinfo\_04_new" />
+      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\typeinfo\_02_generic" />
+      <recent name="E:\programmer\my\java\java_lesson\java_advance_lesson\src\classes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,15 +354,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Progress">
-    <configuration name="ComboBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FamilyVsExactType">
+    <configuration name="FamilyVsExactType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gui.controls.list.*" />
+          <option name="PATTERN" value="typeinfo._01_rtti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.controls.list.ComboBoxes" />
+      <option name="MAIN_CLASS_NAME" value="typeinfo._01_rtti.FamilyVsExactType" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -441,71 +374,89 @@
       <module name="java_advance_lesson" />
       <envs />
     </configuration>
-    <configuration name="Faces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PetCountMap.testCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gui.controls.image.*" />
+          <option name="PATTERN" value="typeinfo._03_new.petCount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.controls.image.Faces" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="java_advance_lesson" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="typeinfo._03_new.petCount" />
+      <option name="MAIN_CLASS_NAME" value="typeinfo._03_new.petCount.PetCountMap" />
+      <option name="METHOD_NAME" value="testCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java_advance_lesson" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
-    <configuration name="Menus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PetCountMap.testTypeCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gui.controls.menu.*" />
+          <option name="PATTERN" value="typeinfo._03_new.petCount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.controls.menu.Menus" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="java_advance_lesson" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="typeinfo._03_new.petCount" />
+      <option name="MAIN_CLASS_NAME" value="typeinfo._03_new.petCount.PetCountMap" />
+      <option name="METHOD_NAME" value="testTypeCounter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java_advance_lesson" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
-    <configuration name="Popup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PetCount.testForNameCreator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gui.controls.menu.*" />
+          <option name="PATTERN" value="typeinfo._03_new.petCount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.controls.menu.Popup" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="java_advance_lesson" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="typeinfo._03_new.petCount" />
+      <option name="MAIN_CLASS_NAME" value="typeinfo._03_new.petCount.PetCount" />
+      <option name="METHOD_NAME" value="testForNameCreator" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java_advance_lesson" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
     </configuration>
-    <configuration name="Progress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisteredFactories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="gui.controls.progress.*" />
+          <option name="PATTERN" value="typeinfo._03_new.petCount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="gui.controls.progress.Progress" />
+      <option name="MAIN_CLASS_NAME" value="typeinfo._03_new.petCount.RegisteredFactories" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -599,19 +550,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Faces" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Menus" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Popup" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ComboBoxes" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Progress" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PetCount.testForNameCreator" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PetCountMap.testCount" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PetCountMap.testTypeCounter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RegisteredFactories" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FamilyVsExactType" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Progress" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ComboBoxes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Popup" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Menus" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Faces" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FamilyVsExactType" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RegisteredFactories" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PetCountMap.testTypeCounter" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PetCountMap.testCount" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PetCount.testForNameCreator" />
       </list>
     </recent_temporary>
   </component>
@@ -629,43 +580,46 @@
       <workItem from="1534081288692" duration="20000" />
       <workItem from="1534122802710" duration="6105000" />
       <workItem from="1534130722711" duration="19329000" />
+      <workItem from="1534339824899" duration="12638000" />
+      <workItem from="1534409338940" duration="8290000" />
+      <workItem from="1534428041488" duration="5694000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCollection_test_add - 2018.08.13 at 20h 51m 08s.xml">
-      <configuration name="TestCollection.test_add" configurationId="JUnit" />
+    <history-entry file="ClassNewTest_testConstructor - 2018.08.16 at 21h 06m 00s.xml">
+      <configuration name="ClassNewTest.testConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_addAll - 2018.08.13 at 20h 53m 15s.xml">
-      <configuration name="TestCollection.test_addAll" configurationId="JUnit" />
+    <history-entry file="ClassNewTest_testConstructor - 2018.08.16 at 21h 07m 06s.xml">
+      <configuration name="ClassNewTest.testConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_iter - 2018.08.13 at 21h 02m 59s.xml">
-      <configuration name="TestCollection.test_iter" configurationId="JUnit" />
+    <history-entry file="ClassNewTest_testConstructorParameter - 2018.08.16 at 21h 07m 13s.xml">
+      <configuration name="ClassNewTest.testConstructorParameter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_remove - 2018.08.13 at 20h 58m 06s.xml">
-      <configuration name="TestCollection.test_remove" configurationId="JUnit" />
+    <history-entry file="NewClassTest_testConstructor - 2018.08.16 at 21h 02m 43s.xml">
+      <configuration name="NewClassTest.testConstructor" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_remove - 2018.08.13 at 20h 58m 29s.xml">
-      <configuration name="TestCollection.test_remove" configurationId="JUnit" />
+    <history-entry file="PetCount3_testCount - 2018.08.16 at 22h 58m 13s.xml">
+      <configuration name="PetCount3.testCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_remove - 2018.08.13 at 20h 59m 20s.xml">
-      <configuration name="TestCollection.test_remove" configurationId="JUnit" />
+    <history-entry file="PetCountMap_testTypeCounter - 2018.08.16 at 23h 05m 32s.xml">
+      <configuration name="PetCountMap.testTypeCounter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCollection_test_removeAll - 2018.08.13 at 20h 59m 54s.xml">
-      <configuration name="TestCollection.test_removeAll" configurationId="JUnit" />
+    <history-entry file="PetCount_testForNameCreator - 2018.08.16 at 22h 47m 31s.xml">
+      <configuration name="PetCount.testForNameCreator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMapData_testAllMap - 2018.08.13 at 17h 09m 17s.xml">
-      <configuration name="TestMapData.testAllMap" configurationId="JUnit" />
+    <history-entry file="PetCount_testForNameCreator - 2018.08.16 at 22h 49m 53s.xml">
+      <configuration name="PetCount.testForNameCreator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMapData_testAllMap - 2018.08.13 at 17h 14m 01s.xml">
-      <configuration name="TestMapData.testAllMap" configurationId="JUnit" />
+    <history-entry file="PetCount_testForNameCreator - 2018.08.16 at 22h 51m 06s.xml">
+      <configuration name="PetCount.testForNameCreator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMapData_testLinkedHashMapData - 2018.08.13 at 17h 09m 27s.xml">
-      <configuration name="TestMapData.testLinkedHashMapData" configurationId="JUnit" />
+    <history-entry file="PetCount_testLiteralPetCreator - 2018.08.16 at 22h 47m 36s.xml">
+      <configuration name="PetCount.testLiteralPetCreator" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36562000" />
+    <option name="totallyTimeSpent" value="63184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -683,7 +637,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,13 +674,110 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/typeinfo/_03_new/FilledList.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/utils/print/Print.java">
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/image/Faces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Popup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/list/ComboBoxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/list/ListCombo.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/controls/progress/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1594">
+          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="472" column="44" lean-forward="true" selection-start-line="472" selection-start-column="25" selection-end-line="472" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8143">
+          <caret line="549" column="51" lean-forward="false" selection-start-line="549" selection-start-column="37" selection-end-line="549" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33337">
+          <caret line="2055" column="18" lean-forward="false" selection-start-line="2055" selection-start-column="18" selection-end-line="2055" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Cymric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -734,430 +785,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/MapDataTest.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-            <element signature="e#730#731#0" expanded="false" />
-            <element signature="e#782#783#0" expanded="false" />
-            <element signature="e#818#819#0" expanded="false" />
-            <element signature="e#891#892#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/TestDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#300#308#0" expanded="false" />
-            <element signature="e#492#500#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/CountingIntegerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="e#301#302#0" expanded="false" />
-            <element signature="e#348#349#0" expanded="false" />
-            <element signature="e#385#386#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#482#483#0" expanded="false" />
-            <element signature="e#591#592#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/CountingMapData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="51" column="55" lean-forward="true" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-            <element signature="e#749#750#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#926#927#0" expanded="false" />
-            <element signature="e#1686#1687#0" expanded="false" />
-            <element signature="e#1745#1746#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/Countries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="237" column="31" lean-forward="true" selection-start-line="237" selection-start-column="31" selection-end-line="237" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#7338#7339#0" expanded="false" />
-            <element signature="e#7388#7389#0" expanded="false" />
-            <element signature="e#7536#7537#0" expanded="false" />
-            <element signature="e#7589#7590#0" expanded="false" />
-            <element signature="e#7629#7630#0" expanded="false" />
-            <element signature="e#7682#7683#0" expanded="false" />
-            <element signature="e#8461#8462#0" expanded="false" />
-            <element signature="e#8504#8505#0" expanded="false" />
-            <element signature="e#9570#9720#0" expanded="false" />
-            <element signature="e#9719#9720#0" expanded="false" />
-            <element signature="e#10138#10139#0" expanded="false" />
-            <element signature="e#10166#10167#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/TestListData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collections/fill/TestMapData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#651#667#0" expanded="false" />
-            <element signature="e#950#966#0" expanded="false" />
-            <element signature="e#1237#1253#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/generator/ArrayGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/generator/CountingGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Hamster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Collection.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Mutt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7287">
-          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collection/TestCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Rodent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#342#350#0" expanded="false" />
-            <element signature="e#559#567#0" expanded="false" />
-            <element signature="e#778#786#0" expanded="false" />
-            <element signature="e#1040#1048#0" expanded="false" />
-            <element signature="e#1335#1343#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="4307" column="30" lean-forward="false" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
-          <folding>
-            <element signature="e#200641#200642#0" expanded="false" />
-            <element signature="e#200682#200683#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="1289" column="46" lean-forward="true" selection-start-line="1289" selection-start-column="46" selection-end-line="1289" selection-end-column="46" />
+        <state relative-caret-position="191">
+          <caret line="1286" column="30" lean-forward="false" selection-start-line="1286" selection-start-column="30" selection-end-line="1286" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/collection/Unsupported.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Manx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="58" column="61" lean-forward="true" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/list/Lists.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1194">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/list/TestList.java">
+    <entry file="file://$PROJECT_DIR$/src/classes/person/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/map/TestMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/queue/TestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/set/TestSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/set/TypesForSets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="60" selection-end-line="75" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/set/SortedSetDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/queue/QueueBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/queue/ToDoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/container/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/queue/DequeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/queue/TestDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/hello/HelloSwing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/hello/HelloLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/hello/SubmitLabelManipulationTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/hello/SubmitSwingProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/button/Button1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#544#545#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/button/Button2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/text/TextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#498#515#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/layouts/BorderLayout1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/layouts/FlowLayout1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/layouts/GridLayout1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/events/ShowAddListeners.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2071#2072#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/GridLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2206">
-          <caret line="165" column="43" lean-forward="true" selection-start-line="165" selection-start-column="43" selection-end-line="165" selection-end-column="43" />
-          <folding>
-            <element signature="e#5069#5070#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/events/TrackEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="105" column="44" lean-forward="true" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3313#3314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/button/Buttons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/test.java">
+    <entry file="file://$PROJECT_DIR$/src/classes/person/IPerson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -1165,91 +865,278 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/SwingConsole.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#125#126#0" expanded="false" />
+            <element signature="e#152#153#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#195#196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/EgyptianMau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/button/ButtonGroups.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassLoadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_reflect/ClassFieldTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_reflect/ClassMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_generic/WildcardClassReferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_generic/GenericClassReferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_reflect/ClassNewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassInitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="2666" column="14" lean-forward="false" selection-start-line="2666" selection-start-column="11" selection-end-line="2666" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/image/Faces.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/FilledList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="438">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/pets/PetCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Menus.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_04_new/petCount/PetCount2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/menu/Popup.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_04_new/pets/Pets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCreator/ForNameCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
-            <element signature="e#1636#1637#0" expanded="true" />
-            <element signature="e#1678#1679#0" expanded="true" />
+            <marker date="1534433020373" expanded="false" signature="809:839" ph="/unchecked/" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/list/ComboBoxes.java">
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCreator/LiteralPetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-          <folding>
-            <element signature="e#1432#1433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/list/ListCombo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="85">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/controls/progress/Progress.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/algorithm/TypeCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="629">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/PetCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="56" column="16" lean-forward="false" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
           <folding>
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2094#2095#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/PetCountMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-674">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/RegisteredFactories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1133">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#347#372#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1872#1873#0" expanded="true" />
+            <element signature="e#2052#2053#0" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2343#2344#0" expanded="true" />
+            <element signature="e#2533#2534#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+            <element signature="e#2839#2840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/FamilyVsExactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_01_rtti/ClassGenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_03_new/petCount/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typeinfo/_02_reflect/SimpleClassViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
