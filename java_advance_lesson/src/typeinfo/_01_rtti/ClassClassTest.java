@@ -5,40 +5,56 @@ import org.junit.jupiter.api.Test;
 import java.lang.reflect.Array;
 
 public class ClassClassTest {
-    public void nameClass(Class<?> meta) {
+    @Test
+    public void testClassLevel() {
+        class Test {
+        }
+
+        Test a = new Test();
+        System.out.println(a.getClass());
+        Test b = new Test();
+        System.out.println(b.getClass());
+
+        System.out.println(a.getClass() == a.getClass());
+
+        System.out.println(Test.class);
+        System.out.println(Test.class.getClassLoader());
+    }
+
+    public void print(Class meta) {
         System.out.println(meta);
     }
 
     @Test
     public void testClassClass() {
-        nameClass(boolean.class);
-        nameClass(char.class);
-        nameClass(byte.class);
-        nameClass(short.class);
-        nameClass(int.class);
-        nameClass(long.class);
-        nameClass(float.class);
-        nameClass(double.class);
+        print(boolean.class);
+        print(char.class);
+        print(byte.class);
+        print(short.class);
+        print(int.class);
+        print(long.class);
+        print(float.class);
+        print(double.class);
 
-        nameClass(void.class);
-        nameClass(Object.class);
-        nameClass(String.class);
+        print(void.class);
+        print(Object.class);
+        print(String.class);
     }
 
     @Test
     public void testClassClassArray() {
-        nameClass(boolean[].class);
-        nameClass(char[].class);
-        nameClass(byte[].class);
-        nameClass(short[].class);
-        nameClass(int[].class);
-        nameClass(long[].class);
-        nameClass(float[].class);
-        nameClass(double[].class);
+        print(boolean[].class);
+        print(char[].class);
+        print(byte[].class);
+        print(short[].class);
+        print(int[].class);
+        print(long[].class);
+        print(float[].class);
+        print(double[].class);
 
-//        nameClass(void[].class);
-        nameClass(Object[].class);
-        nameClass(String[].class);
+        //print(void[].class);
+        print(Object[].class);
+        print(String[].class);
     }
 
     @Test
@@ -52,21 +68,21 @@ public class ClassClassTest {
         Float f = 1.0f;
         Double d = 1.0;
 
-        nameClass(t.getClass());
-        nameClass(c.getClass());
-        nameClass(b.getClass());
-        nameClass(s.getClass());
-        nameClass(i.getClass());
-        nameClass(l.getClass());
-        nameClass(f.getClass());
-        nameClass(d.getClass());
+        print(t.getClass());
+        print(c.getClass());
+        print(b.getClass());
+        print(s.getClass());
+        print(i.getClass());
+        print(l.getClass());
+        print(f.getClass());
+        print(d.getClass());
 
-//        Void v = new Void();
+        //Void v = new Void();
         Object obj = new Object();
         String str = new String();
-//        nameClass(v.getClass());
-        nameClass(obj.getClass());
-        nameClass(str.getClass());
+        //print(v.getClass());
+        print(obj.getClass());
+        print(str.getClass());
     }
 
     @Test
@@ -80,76 +96,35 @@ public class ClassClassTest {
         float f[] = {1.0f};
         double[] d = {1.0};
 
-        nameClass(t.getClass());
-        nameClass(c.getClass());
-        nameClass(b.getClass());
-        nameClass(s.getClass());
-        nameClass(i.getClass());
-        nameClass(l.getClass());
-        nameClass(f.getClass());
-        nameClass(d.getClass());
+        print(t.getClass());
+        print(c.getClass());
+        print(b.getClass());
+        print(s.getClass());
+        print(i.getClass());
+        print(l.getClass());
+        print(f.getClass());
+        print(d.getClass());
 
         Object[] obj = {new Object()};
         String[] str = {new String()};
-        nameClass(obj.getClass());
-        nameClass(str.getClass());
+        print(obj.getClass());
+        print(str.getClass());
     }
 
     @Test
     public void testClassType() {
-        nameClass(Boolean.TYPE);
-        nameClass(Character.TYPE);
-        nameClass(Byte.TYPE);
-        nameClass(Short.TYPE);
-        nameClass(Integer.TYPE);
-        nameClass(Long.TYPE);
-        nameClass(Float.TYPE);
-        nameClass(Double.TYPE);
+        print(Boolean.TYPE);
+        print(Character.TYPE);
+        print(Byte.TYPE);
+        print(Short.TYPE);
+        print(Integer.TYPE);
+        print(Long.TYPE);
+        print(Float.TYPE);
+        print(Double.TYPE);
 
-        nameClass(Void.TYPE);
-//        nameClass(Object.TYPE);
-//        nameClass(String.TYPE);
+        print(Void.TYPE);
+        //print(Object.TYPE);
+        //print(String.TYPE);
     }
 
-    public void detailClass(Class<?> meta) {
-        System.out.println(String.format("name=%s", meta.getName()));
-        System.out.println(String.format("isPrimitive=%s", meta.isPrimitive()));
-        System.out.println(String.format("isArray=%s", meta.isArray()));
-        System.out.println(String.format("isInterface=%s", meta.isInterface()));
-        System.out.println(String.format("isAnnotation=%s", meta.isAnnotation()));
-
-        if (meta.getSuperclass() != null) {
-            System.out.println(String.format("getSuperclass=%s", meta.getSuperclass().getName()));
-        }
-    }
-
-    @Test
-    public void testDetailClass() {
-        System.out.println("--int--");
-        detailClass(int.class);
-
-        System.out.println("--double--");
-        detailClass(double.class);
-
-        System.out.println("--Object--");
-        detailClass(Object.class);
-
-        System.out.println("--String--");
-        detailClass(String.class);
-    }
-
-    @Test
-    public void testDetailClassArray() {
-        System.out.println("--int--");
-        detailClass(int[].class);
-
-        System.out.println("--double--");
-        detailClass(double[].class);
-
-        System.out.println("--Object--");
-        detailClass(Object.class);
-
-        System.out.println("--String--");
-        detailClass(String.class);
-    }
 }

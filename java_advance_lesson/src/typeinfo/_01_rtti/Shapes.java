@@ -1,42 +1,49 @@
-//: typeinfo/Shapes.java
-package typeinfo._01_rtti; /* Added by Eclipse.py */
+package typeinfo._01_rtti;
 
 import java.util.Arrays;
 import java.util.List;
 
-abstract class Shape {
-    void draw() {
-        System.out.println(this + ".draw()");
-    }
-
-    abstract public String toString();
+interface Shape {
+    void draw();
 }
 
-class Circle extends Shape {
-    public String toString() {
-        return "Circle";
+class CAD {
+    public void draw(List<Shape> shapes) {
+        for (Shape shape : shapes) {
+            shape.draw();
+        }
     }
 }
 
-class Square extends Shape {
-    public String toString() {
-        return "Square";
+class Circle implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Circle draw()");
     }
 }
 
-class Triangle extends Shape {
-    public String toString() {
-        return "Triangle";
+class Square implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Square draw()");
+    }
+}
+
+class Triangle implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Triangle draw()");
     }
 }
 
 public class Shapes {
     public static void main(String[] args) {
-        List<Shape> shapeList = Arrays.asList(
+        List<Shape> shapes = Arrays.asList(
                 new Circle(), new Square(), new Triangle()
         );
-        for (Shape shape : shapeList)
-            shape.draw();
+
+        CAD cad = new CAD();
+        cad.draw(shapes);
     }
 }
 /* Output:

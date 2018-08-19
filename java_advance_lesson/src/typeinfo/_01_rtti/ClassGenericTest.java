@@ -25,6 +25,6 @@ public class ClassGenericTest {
         Class<? extends Number> numberClass = int.class;
         numberClass = double.class;
         numberClass = Number.class;
-//        numberClass = String.class;
+        //numberClass = String.class;
     }
 }
